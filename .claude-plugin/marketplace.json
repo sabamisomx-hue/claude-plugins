@@ -1,0 +1,33 @@
+{
+  "name": "yuichi-plugins",
+  "description": "Yuichi の個人用スキルパック集（投資・メイカー・仕事・横断ユーティリティ）",
+  "owner": {
+    "name": "Yuichi"
+  },
+  "plugins": [
+    {
+      "name": "yuichi-core-pack",
+      "description": "横断ユーティリティ: プロジェクト立ち上げ・買うか作るか判断・トークン節約・構造化要約",
+      "version": "0.1.0",
+      "source": "./yuichi-core-pack"
+    },
+    {
+      "name": "yuichi-maker-pack",
+      "description": "電子工作・3Dプリント・CAD・カブEV化・サーバー運用のメイカー総合パック",
+      "version": "0.1.0",
+      "source": "./yuichi-maker-pack"
+    },
+    {
+      "name": "yuichi-shigoto-pack",
+      "description": "病院・看護学校の業務支援パック: 業務文書・研修教材・廃棄物啓発・電気主任技術者業務",
+      "version": "0.1.0",
+      "source": "./yuichi-shigoto-pack"
+    },
+    {
+      "name": "yuichi-toushi-pack",
+      "description": "日本株バリュー投資の支援パック: 銘柄分析・ポートフォリオ点検・税制・IR情報収集",
+      "version": "0.1.0",
+      "source": "./yuichi-toushi-pack"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yuichi-core-pack",
+  "version": "0.1.0",
+  "description": "横断ユーティリティ: プロジェクト立ち上げ・買うか作るか判断・トークン節約・構造化要約",
+  "author": {
+    "name": "Yuichi"
+  },
+  "keywords": [
+    "personal",
+    "japanese"
+  ]
+}

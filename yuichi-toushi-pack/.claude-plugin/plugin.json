@@ -1,0 +1,12 @@
+{
+  "name": "yuichi-toushi-pack",
+  "version": "0.1.0",
+  "description": "日本株バリュー投資の支援パック: 銘柄分析・ポートフォリオ点検・税制・IR情報収集",
+  "author": {
+    "name": "Yuichi"
+  },
+  "keywords": [
+    "personal",
+    "japanese"
+  ]
+}
